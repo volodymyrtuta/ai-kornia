@@ -6,9 +6,7 @@
 
 It consists of a set of routines and differentiable modules to solve generic computer vision problems. At its core, the package uses *PyTorch* as its main backend both for efficiency and to take advantage of the reverse-mode auto-differentiation to define and compute the gradient of complex functions.
 
-<div align="center">
-  <img src="https://github.com/kornia/kornia/raw/master/docs/source/_static/img/hakuna_matata.gif" width="75%" height="75%">
-</div>
+
 
 <!--<div align="center">
   <img src="http://drive.google.com/uc?export=view&id=1KNwaanUdY1MynF0EYfyXjDM3ti09tzaq">
@@ -20,19 +18,6 @@ Inspired by existing packages, this library is composed by a subset of packages 
 
 At a granular level, Kornia is a library that consists of the following components:
 
-| **Component**                                                                    | **Description**                                                                                                                       |
-|----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| [kornia](https://kornia.readthedocs.io/en/latest/index.html)                     | a Differentiable Computer Vision library, with strong GPU support                                                                     |
-| [kornia.augmentation](https://kornia.readthedocs.io/en/latest/augmentation.html) | a module to perform data augmentation in the GPU                                                                                      |
-| [kornia.color](https://kornia.readthedocs.io/en/latest/color.html)               | a set of routines to perform color space conversions                                                                                  |
-| [kornia.contrib](https://kornia.readthedocs.io/en/latest/contrib.html)           | a compilation of user contrib and experimental operators                                                                              |
-| [kornia.enhance](https://kornia.readthedocs.io/en/latest/enhance.html)           | a module to perform normalization and intensity transformation                                                                        |
-| [kornia.feature](https://kornia.readthedocs.io/en/latest/feature.html)           | a module to perform feature detection                                                                                                 |
-| [kornia.filters](https://kornia.readthedocs.io/en/latest/filters.html)           | a module to perform image filtering and edge detection                                                                                |
-| [kornia.geometry](https://kornia.readthedocs.io/en/latest/geometry.html)         | a geometric computer vision library to perform image transformations, 3D linear algebra and conversions using different camera models |
-| [kornia.losses](https://kornia.readthedocs.io/en/latest/losses.html)             | a stack of loss functions to solve different vision tasks                                                                             |
-| [kornia.morphology](https://kornia.readthedocs.io/en/latest/morphology.html)     | a module to perform morphological operations                                                                                          |
-| [kornia.utils](https://kornia.readthedocs.io/en/latest/utils.html)               | image to tensor utilities and metrics for vision problems                                                                             |
 
 ## Installation
 
@@ -71,11 +56,7 @@ At a granular level, Kornia is a library that consists of the following componen
 
 Run our Jupyter notebooks [tutorials](https://kornia.github.io/tutorials) to learn to use the library.
 
-<div align="center">
-  <a href="https://colab.research.google.com/github/kornia/tutorials/blob/master/source/hello_world_tutorial.ipynb" target="_blank">
-    <img src="https://raw.githubusercontent.com/kornia/data/main/hello_world_arturito.png" width="75%" height="75%">
-  </a>
-</div>
+
 
 :triangular_flag_on_post: **Updates**
 - :white_check_mark: [Image Matching](https://kornia.readthedocs.io/en/latest/applications/image_matching.html) Integrated to [Huggingface Spaces](https://huggingface.co/spaces). See [Gradio Web Demo](https://huggingface.co/spaces/akhaliq/Kornia-LoFTR).
