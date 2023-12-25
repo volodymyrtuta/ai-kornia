@@ -1,39 +1,6 @@
-<div align="center">
-<p align="center">
-  <img width="75%" src="https://github.com/kornia/data/raw/main/kornia_banner_pixie.png" />
-</p>
 
 ---
 
-English | [简体中文](README_zh-CN.md)
-
-<!-- prettier-ignore -->
-<a href="https://kornia.org">Website</a> •
-<a href="https://kornia.readthedocs.io">Docs</a> •
-<a href="https://colab.research.google.com/github/kornia/tutorials/blob/master/source/hello_world_tutorial.ipynb">Try it Now</a> •
-<a href="https://kornia.github.io/tutorials/">Tutorials</a> •
-<a href="https://github.com/kornia/kornia-examples">Examples</a> •
-<a href="https://kornia.github.io//kornia-blog">Blog</a> •
-<a href="https://join.slack.com/t/kornia/shared_invite/zt-csobk21g-CnydWe5fmvkcktIeRFGCEQ">Community</a>
-
-[![PyPI python](https://img.shields.io/pypi/pyversions/kornia)](https://pypi.org/project/kornia)
-[![pytorch](https://img.shields.io/badge/PyTorch_1.9.1+-ee4c2c?logo=pytorch&logoColor=white)](https://pytorch.org/get-started/locally/)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENCE)
-
-[![PyPI version](https://badge.fury.io/py/kornia.svg)](https://pypi.org/project/kornia)
-[![Downloads](https://static.pepy.tech/badge/kornia)](https://pepy.tech/project/kornia)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://join.slack.com/t/kornia/shared_invite/zt-csobk21g-2AQRi~X9Uu6PLMuUZdvfjA)
-[![Twitter](https://img.shields.io/twitter/follow/kornia_foss?style=social)](https://twitter.com/kornia_foss)
-
-[![tests-cpu](https://github.com/kornia/kornia/actions/workflows/scheduled_test_cpu.yml/badge.svg?event=schedule&&branch=master)](https://github.com/kornia/kornia/actions/workflows/scheduled_test_cpu.yml)
-[![codecov](https://codecov.io/gh/kornia/kornia/branch/master/graph/badge.svg?token=FzCb7e0Bso)](https://codecov.io/gh/kornia/kornia)
-[![Documentation Status](https://readthedocs.org/projects/kornia/badge/?version=latest)](https://kornia.readthedocs.io/en/latest/?badge=latest)
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/kornia/kornia/master.svg)](https://results.pre-commit.ci/latest/github/kornia/kornia/master)
-
-<a href="https://www.producthunt.com/posts/kornia?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-kornia" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=306439&theme=light" alt="Kornia - Computer vision library for deep learning | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
-
-</p>
-</div>
 
 *Kornia* is a differentiable computer vision library for [PyTorch](https://pytorch.org).
 
